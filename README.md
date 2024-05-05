@@ -10,7 +10,10 @@ This project focuses on semantic segmentation of clothing items in images using 
 
  
 Virtual Outfit Changer Plugin with FiftyOne
+
 ##Introduction
+
+
 Welcome to the Virtual Outfit Changer Plugin section, where we will explore the creation of an innovative tool that revolutionizes image segmentation. By building a virtual outfit changer plugin using the FiftyOne app, we delve into the realms of semantic segmentation and inpainting, enabling users to transform clothing items in images with a simple prompt.
 
 ##Problem Statement
